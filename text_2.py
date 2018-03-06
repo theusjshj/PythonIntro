@@ -1,4 +1,4 @@
-# Ryan Mottahed – Text Challenge 2
+# Ryan Mottahed – Python Text Challenge 2
 
 print("    *    ")
 print("  *   *  ")
